@@ -1,6 +1,6 @@
 This code is broken!
 
-A Java developer has committed this terrible code to our codebase and didn't test it!
+A JavaScript developer has committed this terrible code to our codebase and didn't test it!
 
 ```js
 function loadUsers(userIds, load, done) {
